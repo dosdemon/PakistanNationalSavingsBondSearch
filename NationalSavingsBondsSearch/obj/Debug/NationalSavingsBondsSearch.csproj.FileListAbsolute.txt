@@ -1,0 +1,10 @@
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\bin\Debug\NationalSavingsBondsSearch.exe.config
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\bin\Debug\NationalSavingsBondsSearch.exe
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\bin\Debug\NationalSavingsBondsSearch.pdb
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.Form1.resources
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.Properties.Resources.resources
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.csproj.GenerateResource.cache
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.exe
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.pdb
+C:\Users\usman\source\repos\NationalSavingsBondsSearch\NationalSavingsBondsSearch\obj\Debug\NationalSavingsBondsSearch.csprojAssemblyReference.cache
